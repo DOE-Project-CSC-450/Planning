@@ -1,6 +1,7 @@
 Directions for connecting back end and front end with expresss and node.js 
 
 1. Clone the front end repo to your local device. Make sure you do a npm install, npm run build, and then npm start.
+If you are unfamiliar with this frontenders can help you, and I can help set you up.
 
 2. Fun with database time. Go here: https://www.ampps.com/wiki/How_to_use_AMPPS. Copy round 2 sql code into new database. Alternatively, I can put the code in a file called round2code for convinience.
 
